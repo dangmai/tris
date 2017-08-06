@@ -1,10 +1,10 @@
 {
-  "name": "chat-example",
-  "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
-  "main": "server.js",
+  "name": "tris",
+  "version": "0.1.0-dev",
+  "description": "A universal framework,",
+  "main": "dist/bin/tris_admin.js",
   "repository": "",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Dang Mai <contact@dangmai.net>",
   "dependencies": {
     "@types/express": "^4.0.36",
     "awesome-typescript-loader": "^3.2.2",
