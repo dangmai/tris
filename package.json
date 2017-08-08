@@ -11,6 +11,7 @@
     "express": "^4.15.3",
     "source-map-loader": "^0.2.1",
     "typescript": "^2.4.2",
+    "universal-router": "^3.2.0",
     "webpack": "^3.4.1"
   },
   "scripts": {
